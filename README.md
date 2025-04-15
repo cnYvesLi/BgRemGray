@@ -24,15 +24,15 @@ pip install -r requirements.txt
 ### 2. 准备图像
 
 将需要处理的图像放入 `input` 目录下的子文件夹中。例如：
-input/
-├── Apr8_20.40/
-│   ├── overview.jpg
-│   ├── vinegar_soak.jpg
-│   └── ...
-└── Apr15_10.30/
-    ├── overview.jpg
-    ├── vinegar_soak.jpg
-    └── ...
+input/  
+├── Apr8_20.40/  
+│   ├── overview.jpg  
+│   ├── vinegar_soak.jpg  
+│   └── ...  
+└── Apr15_10.30/  
+    ├── overview.jpg  
+    ├── vinegar_soak.jpg  
+    └── ...  
 ### 3. 去除背景
 
 运行背景去除脚本：
