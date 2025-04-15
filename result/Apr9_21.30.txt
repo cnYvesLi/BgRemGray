@@ -1,0 +1,10 @@
+目录: ./output/Apr9_21.30
+总平均灰度值: 42.45
+
+各图片灰度值:
+vinegar_soak.png: 60.69
+salt_sol_spray.png: 28.73
+vinegar_spray.png: 28.77
+control_group2.png: 44.16
+salt_sol_soak.png: 70.57
+control_group1.png: 34.14
